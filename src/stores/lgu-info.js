@@ -6,7 +6,7 @@ export const landingInfo = [
       height: 120,
     },
     header: {
-      title: "city of puerto princesa",
+      title: "CITY OF ZAMBOANGA",
     },
     subheader: {
       title: "self service kiosk",
@@ -24,7 +24,7 @@ export const ticketInfo = [
       title: "Republic of the Philippines",
     },
     subheader: {
-      title: "city of puerto princesa",
+      title: "city of ZAMBOANGA",
     },
   },
 ];
